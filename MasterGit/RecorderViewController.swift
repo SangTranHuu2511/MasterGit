@@ -14,6 +14,8 @@ class RecorderViewController: UIViewController {
         super.viewDidLoad()
 
         // Do any additional setup after loading the view.
+        
+        // Recorder 01
     }
 
     override func didReceiveMemoryWarning() {
