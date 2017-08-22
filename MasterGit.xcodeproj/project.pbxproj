@@ -14,6 +14,7 @@
 		84C2D8061F4C8B4F00AB56F7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 84C2D8041F4C8B4F00AB56F7 /* LaunchScreen.storyboard */; };
 		84C2D80E1F4C8C9500AB56F7 /* AudioViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84C2D80D1F4C8C9500AB56F7 /* AudioViewController.swift */; };
 		84C2D8121F4C9BB900AB56F7 /* Person.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84C2D8111F4C9BB900AB56F7 /* Person.swift */; };
+		84C2D8141F4CA13400AB56F7 /* Audio.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84C2D8131F4CA13400AB56F7 /* Audio.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		84C2D8071F4C8B4F00AB56F7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		84C2D80D1F4C8C9500AB56F7 /* AudioViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AudioViewController.swift; sourceTree = "<group>"; };
 		84C2D8111F4C9BB900AB56F7 /* Person.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Person.swift; sourceTree = "<group>"; };
+		84C2D8131F4CA13400AB56F7 /* Audio.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Audio.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				84C2D7FD1F4C8B4F00AB56F7 /* ViewController.swift */,
 				84C2D7FF1F4C8B4F00AB56F7 /* Main.storyboard */,
 				84C2D80D1F4C8C9500AB56F7 /* AudioViewController.swift */,
+				84C2D8131F4CA13400AB56F7 /* Audio.swift */,
 				84C2D8111F4C9BB900AB56F7 /* Person.swift */,
 				84C2D8021F4C8B4F00AB56F7 /* Assets.xcassets */,
 				84C2D8041F4C8B4F00AB56F7 /* LaunchScreen.storyboard */,
@@ -146,6 +149,7 @@
 				84C2D7FC1F4C8B4F00AB56F7 /* AppDelegate.swift in Sources */,
 				84C2D8121F4C9BB900AB56F7 /* Person.swift in Sources */,
 				84C2D80E1F4C8C9500AB56F7 /* AudioViewController.swift in Sources */,
+				84C2D8141F4CA13400AB56F7 /* Audio.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
