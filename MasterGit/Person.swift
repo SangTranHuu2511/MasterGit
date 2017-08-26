@@ -7,3 +7,13 @@
 //
 
 import Foundation
+
+class Person {
+    func hello() {
+        print("test1")
+        print("add test 2")
+        //test3
+        //test4
+    }
+
+}
